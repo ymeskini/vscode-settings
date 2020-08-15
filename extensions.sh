@@ -1,0 +1,14 @@
+code --install-extension bradlc.vscode-tailwindcss
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension deerawan.vscode-dash
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension EditorConfig.EditorConfig
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-close-tag
+code --install-extension jpoissonnier.vscode-styled-components
+code --install-extension sdras.night-owl
+code --install-extension Shan.code-settings-sync
+code --install-extension VisualStudioExptTeam.vscodeintellicode
+code --install-extension vscode-icons-team.vscode-icons
+code --install-extension WallabyJs.quokka-vscode
